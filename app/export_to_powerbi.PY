@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("NEW_CSV_TOTAL.csv")
+df = pd.read_csv("./media/Encuestado_sin_duplicados.csv")
 
 # Crear las distintas tablas
 encuestado = df[["Id_Encuesta", "N_Encuesta", "encuesta_a", "encuesta_m", "zona_u_r", "region", "Sexo", "Edad", "estrato", "iden_pol_3"]]
