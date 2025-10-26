@@ -1,0 +1,344 @@
+Pregunta,Codigo,Descripcion
+percepcion_1_a,1,Pensiones
+percepcion_1_a,2,Corrupción
+percepcion_1_a,3,"Delincuencia, asaltos y robos"
+percepcion_1_a,4,Derechos humanos
+percepcion_1_a,5,Educación
+percepcion_1_a,6,Empleo
+percepcion_1_a,7,Pobreza
+percepcion_1_a,8,Protección del medio ambiente
+percepcion_1_a,9,Drogas
+percepcion_1_a,10,Salud
+percepcion_1_a,11,Sueldos
+percepcion_1_a,12,Transporte público
+percepcion_1_a,13,Vivienda
+percepcion_1_a,14,Inmigración
+percepcion_1_a,16,Desigualdad
+percepcion_1_a,17,"Alzas de precios, inflación"
+percepcion_1_a,26,Violencia
+percepcion_1_b,1,Pensiones
+percepcion_1_b,2,Corrupción
+percepcion_1_b,3,"Delincuencia, asaltos y robos"
+percepcion_1_b,4,Derechos humanos
+percepcion_1_b,5,Educación
+percepcion_1_b,6,Empleo
+percepcion_1_b,7,Pobreza
+percepcion_1_b,8,Protección del medio ambiente
+percepcion_1_b,9,Drogas
+percepcion_1_b,10,Salud
+percepcion_1_b,11,Sueldos
+percepcion_1_b,12,Transporte público
+percepcion_1_b,13,Vivienda
+percepcion_1_b,14,Inmigración
+percepcion_1_b,16,Desigualdad
+percepcion_1_b,17,"Alzas de precios, inflación"
+percepcion_1_b,26,Violencia
+percepcion_1_c,1,Pensiones
+percepcion_1_c,2,Corrupción
+percepcion_1_c,3,"Delincuencia, asaltos y robos"
+percepcion_1_c,4,Derechos humanos
+percepcion_1_c,5,Educación
+percepcion_1_c,6,Empleo
+percepcion_1_c,7,Pobreza
+percepcion_1_c,8,Protección del medio ambiente
+percepcion_1_c,9,Drogas
+percepcion_1_c,10,Salud
+percepcion_1_c,11,Sueldos
+percepcion_1_c,12,Transporte público
+percepcion_1_c,13,Vivienda
+percepcion_1_c,14,Inmigración
+percepcion_1_c,16,Desigualdad
+percepcion_1_c,17,"Alzas de precios, inflación"
+percepcion_1_c,26,Violencia
+percepcion_2,1,Muy buena
+percepcion_2,2,Buena
+percepcion_2,3,Ni buena ni mala
+percepcion_2,4,Mala
+percepcion_2,5,Muy mala
+percepcion_2,-8,No sabe (No leer)
+percepcion_2,-9,No contesta (No leer)
+percepcion_3,1,Mejorará
+percepcion_3,2,No cambiará
+percepcion_3,3,Empeorará
+percepcion_4,1,Progresando
+percepcion_4,2,Estancado
+percepcion_4,3,En decadencia
+percepcion_4,-8,No sabe (no leer)
+percepcion_4,-9,No contesta (no leer)
+percepcion_5,1,Muy buena
+percepcion_5,2,Buena
+percepcion_5,3,Ni buena ni mala
+percepcion_5,4,Mala
+percepcion_5,5,Muy mala
+percepcion_5,-8,No sabe (No leer)
+percepcion_5,-9,No contesta (No leer)
+percepcion_6,1,Muy buena
+percepcion_6,2,Buena
+percepcion_6,3,Ni buena ni mala
+percepcion_6,4,Mala
+percepcion_6,5,Muy mala
+percepcion_6,-8,No sabe (No leer)
+percepcion_6,-9,No contesta (No leer)
+eval_gob_1,1,Aprueba
+eval_gob_1,2,Desaprueba
+eval_gob_1,3,No aprueba ni desaprueba (no leer)
+eval_gob_1,-8,No sabe (no leer)
+eval_gob_1,-9,No responde (no leer)
+percepcion_39,1,Mejor
+percepcion_39,2,Igual
+percepcion_39,3,Peor
+percepcion_39,-8,No sabe (No leer)
+percepcion_39,-9,No contesta (No leer)
+percepcion_38,1,Muy buena
+percepcion_38,2,Buena
+percepcion_38,3,Ni buena ni mala
+percepcion_38,4,Mala
+percepcion_38,5,Muy mala
+percepcion_38,-8,No sabe (No leer)
+percepcion_38,-9,No contesta (No leer)
+eval_act_pol_1_p,1,Muy negativa
+eval_act_pol_1_p,2,Negativa
+eval_act_pol_1_p,3,Ni negativa ni positiva
+eval_act_pol_1_p,4,Positiva
+eval_act_pol_1_p,5,Muy positiva
+eval_act_pol_1_p,6,No conoce a la persona
+eval_act_pol_1_p,-8,No sabe (no leer)
+eval_act_pol_1_p,-9,No contesta (no leer)
+eval_act_pol_1_fh,1,Muy negativa
+eval_act_pol_1_fh,2,Negativa
+eval_act_pol_1_fh,3,Ni negativa ni positiva
+eval_act_pol_1_fh,4,Positiva
+eval_act_pol_1_fh,5,Muy positiva
+eval_act_pol_1_fh,6,No conoce a la persona
+eval_act_pol_1_fh,-8,No sabe (no leer)
+eval_act_pol_1_fh,-9,No contesta (no leer)
+eval_act_pol_1_dv,1,Muy negativa
+eval_act_pol_1_dv,2,Negativa
+eval_act_pol_1_dv,3,Ni negativa ni positiva
+eval_act_pol_1_dv,4,Positiva
+eval_act_pol_1_dv,5,Muy positiva
+eval_act_pol_1_dv,6,No conoce a la persona
+eval_act_pol_1_dv,-8,No sabe (no leer)
+eval_act_pol_1_dv,-9,No contesta (no leer)
+eval_act_pol_1_co,1,Muy negativa
+eval_act_pol_1_co,2,Negativa
+eval_act_pol_1_co,3,Ni negativa ni positiva
+eval_act_pol_1_co,4,Positiva
+eval_act_pol_1_co,5,Muy positiva
+eval_act_pol_1_co,6,No conoce a la persona
+eval_act_pol_1_co,-8,No sabe (no leer)
+eval_act_pol_1_co,-9,No contesta (no leer)
+eval_act_pol_1_ca,1,Muy negativa
+eval_act_pol_1_ca,2,Negativa
+eval_act_pol_1_ca,3,Ni negativa ni positiva
+eval_act_pol_1_ca,4,Positiva
+eval_act_pol_1_ca,5,Muy positiva
+eval_act_pol_1_ca,6,No conoce a la persona
+eval_act_pol_1_ca,-8,No sabe (no leer)
+eval_act_pol_1_ca,-9,No contesta (no leer)
+eval_act_pol_1_ae,1,Muy negativa
+eval_act_pol_1_ae,2,Negativa
+eval_act_pol_1_ae,3,Ni negativa ni positiva
+eval_act_pol_1_ae,4,Positiva
+eval_act_pol_1_ae,5,Muy positiva
+eval_act_pol_1_ae,6,No conoce a la persona
+eval_act_pol_1_ae,-8,No sabe (no leer)
+eval_act_pol_1_ae,-9,No contesta (no leer)
+eval_act_pol_1_er,1,Muy negativa
+eval_act_pol_1_er,2,Negativa
+eval_act_pol_1_er,3,Ni negativa ni positiva
+eval_act_pol_1_er,4,Positiva
+eval_act_pol_1_er,5,Muy positiva
+eval_act_pol_1_er,6,No conoce a la persona
+eval_act_pol_1_er,-8,No sabe (no leer)
+eval_act_pol_1_er,-9,No contesta (no leer)
+eval_act_pol_1_gt,1,Muy negativa
+eval_act_pol_1_gt,2,Negativa
+eval_act_pol_1_gt,3,Ni negativa ni positiva
+eval_act_pol_1_gt,4,Positiva
+eval_act_pol_1_gt,5,Muy positiva
+eval_act_pol_1_gt,6,No conoce a la persona
+eval_act_pol_1_gt,-8,No sabe (no leer)
+eval_act_pol_1_gt,-9,No contesta (no leer)
+confianza_6_a-aa,1,Mucha confianza
+confianza_6_a-aa,2,Bastante confianza
+confianza_6_a-aa,3,Poca confianza
+confianza_6_a-aa,4,Nada de confianza
+confianza_6_a-aa,-8,No sabe (no leer)
+confianza_6_a-aa,-9,No contesta (no leer)
+confianza_6_j,1,Mucha confianza
+confianza_6_j,2,Bastante confianza
+confianza_6_j,3,Poca confianza
+confianza_6_j,4,Nada de confianza
+confianza_6_j,-8,No sabe (no leer)
+confianza_6_j,-9,No contesta (no leer)
+confianza_6_i,1,Mucha confianza
+confianza_6_i,2,Bastante confianza
+confianza_6_i,3,Poca confianza
+confianza_6_i,4,Nada de confianza
+confianza_6_i,-8,No sabe (no leer)
+confianza_6_i,-9,No contesta (no leer)
+confianza_6_k,1,Mucha confianza
+confianza_6_k,2,Bastante confianza
+confianza_6_k,3,Poca confianza
+confianza_6_k,4,Nada de confianza
+confianza_6_k,-8,No sabe (no leer)
+confianza_6_k,-9,No contesta (no leer)
+democracia_21,1,La democracia siempre es preferible
+democracia_21,2,A veces un régimen autoritario puede ser preferible
+democracia_21,3,Da lo mismo un régimen democrático que uno autoritario
+democracia_21,-8,No sabe (no leer)
+democracia_21,-9,No contesta (no leer)
+pp_congreso_61_b,1,"Privilegien los acuerdos, aunque tengan que ceder sus posiciones"
+pp_congreso_61_b,2,"Defiendan sus posiciones, aunque eso implique no llegar a acuerdos"
+pp_congreso_61_b,-8,No sabe
+pp_congreso_61_b,-9,No contesta
+eval_act_pol_17,1,Rescate de los 33 mineros
+eval_act_pol_17,2,Reconstrucción tras el terremoto del 2010
+eval_act_pol_17,3,Salida institucional al estallido social de octubre 2019 con el Acuerdo por la Paz
+eval_act_pol_17,4,Gestión de la pandemia por Covid-19
+eval_act_pol_17,5,Cierre del Penal Cordillera
+eval_act_pol_17,6,Reactivación económica
+eval_act_pol_17,7,Fallo de la Corte de la Haya sobre la delimitación marítima entre Chile y Perú
+eval_act_pol_17,8,Afirmar que hubo cómplices pasivos en la dictadura en el marco de la conmemoración de los 40 años del golpe de Estado
+eval_act_pol_17,9,Otro
+eval_act_pol_17,-8,No sabe (no leer)
+eval_act_pol_17,-9,No contesta (no leer)
+eval_act_pol_18,1,Pensión garantizada universal (PGU)
+eval_act_pol_18,2,Ingreso ético familiar
+eval_act_pol_18,3,Postnatal de 6 meses
+eval_act_pol_18,4,Ley de no discriminación (Ley Zamudio)
+eval_act_pol_18,5,Ley de matrimonio igualitario
+eval_act_pol_18,6,Liceos bicentenario
+eval_act_pol_18,7,Programa elige vivir sano
+eval_act_pol_18,8,Ley de pago a 30 días
+eval_act_pol_18,9,Ley de protección al empleo
+eval_act_pol_18,10,Ley de apoyo en caso de muerte de hijo/a en el período gestacional o al nacer (Ley Dominga)
+eval_act_pol_18,11,Otra
+eval_act_pol_18,-8,No sabe (no leer)
+eval_act_pol_18,-9,No contesta (no leer)
+bienestar_2,1,Totalmente insatisfecho
+bienestar_2,2,Insatisfecho
+bienestar_2,3,Poco satisfecho
+bienestar_2,4,Algo insatisfecho
+bienestar_2,5,Neutral
+bienestar_2,6,Ligeramente satisfecho
+bienestar_2,7,Satisfecho
+bienestar_2,8,Bastante satisfecho
+bienestar_2,9,Muy satisfecho
+bienestar_2,10,Totalmente satisfecho
+bienestar_2,-9,No contesta
+bienestar_2,-8,No sabe
+bienestar_7_a,1,Muy insatisfecho
+bienestar_7_a,2,Insatisfecho
+bienestar_7_a,3,"Indiferente, ni bien ni mal"
+bienestar_7_a,4,Satisfecho
+bienestar_7_a,5,Muy satisfecho
+bienestar_7_a,-9,No contesta
+bienestar_7_a,-7,No aplica
+bienestar_7_d,1,Muy insatisfecho
+bienestar_7_d,2,Insatisfecho
+bienestar_7_d,3,"Indiferente, ni bien ni mal"
+bienestar_7_d,4,Satisfecho
+bienestar_7_d,5,Muy satisfecho
+bienestar_7_d,-9,No contesta
+bienestar_7_d,-7,No aplica
+bienestar_7_f,1,Muy insatisfecho
+bienestar_7_f,2,Insatisfecho
+bienestar_7_f,3,"Indiferente, ni bien ni mal"
+bienestar_7_f,4,Satisfecho
+bienestar_7_f,5,Muy satisfecho
+bienestar_7_f,-9,No contesta
+bienestar_7_f,-7,No aplica
+bienestar_7_g,1,Muy insatisfecho
+bienestar_7_g,2,Insatisfecho
+bienestar_7_g,3,"Indiferente, ni bien ni mal"
+bienestar_7_g,4,Satisfecho
+bienestar_7_g,5,Muy satisfecho
+bienestar_7_g,-9,No contesta
+bienestar_7_g,-7,No aplica
+iden_pol_3,1,Democracia Cristiana
+iden_pol_3,2,Evolución Política
+iden_pol_3,3,Partido Comunista
+iden_pol_3,4,Partido Humanista
+iden_pol_3,5,Partido Por la Democracia
+iden_pol_3,7,Partido Radical
+iden_pol_3,9,Partido Socialista
+iden_pol_3,10,Renovación Nacional
+iden_pol_3,11,Revolución Democrática
+iden_pol_3,13,Unión Demócrata Independiente
+iden_pol_3,14,Otros
+iden_pol_3,15,Ninguno
+iden_pol_3,16,Convergencia Social
+iden_pol_3,17,Partido de la Gente
+iden_pol_3,18,Partido Republicano
+iden_pol_3,19,Comunes
+iden_pol_3,20,Partido Liberal
+iden_pol_3,22,Federación Regionalista Verde Social (FRVS)
+iden_pol_3,23,Movimiento Amarillos Por Chile
+iden_pol_3,24,Partido Demócratas Chile
+iden_pol_3,-8,No sabe (no leer)
+iden_pol_3,-9,No contesta (no leer)
+estallido_17,1,Muy bueno
+estallido_17,2,Bueno
+estallido_17,3,Regular
+estallido_17,4,Malo
+estallido_17,5,Muy malo
+estallido_17,-9,No contesta
+estallido_17,-8,No sabe
+MBP20a,1,Muy bien
+MBP20a,2,Bien
+MBP20a,3,Regular
+MBP20a,4,Mal
+MBP20a,5,Muy mal
+MBP20a,-9,No sabe (no leer)
+MBP20a,-8,No contesta (no leer)
+MBP20b,1,Muy bien
+MBP20b,2,Bien
+MBP20b,3,Regular
+MBP20b,4,Mal
+MBP20b,5,Muy mal
+MBP20b,-9,No sabe (no leer)
+MBP20b,-8,No contesta (no leer)
+MBP20c,1,Muy bien
+MBP20c,2,Bien
+MBP20c,3,Regular
+MBP20c,4,Mal
+MBP20c,5,Muy mal
+MBP20c,-9,No sabe (no leer)
+MBP20c,-8,No contesta (no leer)
+MBP20d,1,Muy bien
+MBP20d,2,Bien
+MBP20d,3,Regular
+MBP20d,4,Mal
+MBP20d,5,Muy mal
+MBP20d,-9,No sabe (no leer)
+MBP20d,-8,No contesta (no leer)
+MBP20e,1,Muy bien
+MBP20e,2,Bien
+MBP20e,3,Regular
+MBP20e,4,Mal
+MBP20e,5,Muy mal
+MBP20e,-9,No sabe (no leer)
+MBP20e,-8,No contesta (no leer)
+MBP20g,1,Muy bien
+MBP20g,2,Bien
+MBP20g,3,Regular
+MBP20g,4,Mal
+MBP20g,5,Muy mal
+MBP20g,-9,No sabe (no leer)
+MBP20g,-8,No contesta (no leer)
+MBP20h,1,Muy bien
+MBP20h,2,Bien
+MBP20h,3,Regular
+MBP20h,4,Mal
+MBP20h,5,Muy mal
+MBP20h,-9,No sabe (no leer)
+MBP20h,-8,No contesta (no leer)
+MBP20j,1,Muy bien
+MBP20j,2,Bien
+MBP20j,3,Regular
+MBP20j,4,Mal
+MBP20j,5,Muy mal
+MBP20j,-9,No sabe (no leer)
+MBP20j,-8,No contesta (no leer)

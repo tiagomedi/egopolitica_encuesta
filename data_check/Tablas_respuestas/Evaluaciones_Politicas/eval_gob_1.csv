@@ -1,0 +1,6 @@
+﻿Pregunta,Codigo,Descripcion
+eval_gob_1,1,Aprueba
+eval_gob_1,2,Desaprueba
+eval_gob_1,3,No aprueba ni desaprueba (no leer)
+eval_gob_1,-8,No sabe (no leer)
+eval_gob_1,-9,No responde (no leer)

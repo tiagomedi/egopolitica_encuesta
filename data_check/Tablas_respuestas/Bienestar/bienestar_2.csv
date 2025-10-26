@@ -1,0 +1,13 @@
+﻿Pregunta,Codigo,Descripcion
+bienestar_2,1,Totalmente insatisfecho
+bienestar_2,2,Insatisfecho
+bienestar_2,3,Poco satisfecho
+bienestar_2,4,Algo insatisfecho
+bienestar_2,5,Neutral
+bienestar_2,6,Ligeramente satisfecho
+bienestar_2,7,Satisfecho
+bienestar_2,8,Bastante satisfecho
+bienestar_2,9,Muy satisfecho
+bienestar_2,10,Totalmente satisfecho
+bienestar_2,-9,No contesta
+bienestar_2,-8,No sabe

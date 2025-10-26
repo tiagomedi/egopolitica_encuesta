@@ -1,0 +1,8 @@
+﻿Pregunta,Codigo,Descripcion
+percepcion_5,1,Muy buena
+percepcion_5,2,Buena
+percepcion_5,3,Ni buena ni mala
+percepcion_5,4,Mala
+percepcion_5,5,Muy mala
+percepcion_5,-8,No sabe (No leer)
+percepcion_5,-9,No contesta (No leer)

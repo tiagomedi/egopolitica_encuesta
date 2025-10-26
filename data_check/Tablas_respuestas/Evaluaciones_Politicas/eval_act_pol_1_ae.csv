@@ -1,0 +1,9 @@
+﻿Pregunta,Codigo,Descripcion
+eval_act_pol_1_ae,1,Muy negativa
+eval_act_pol_1_ae,2,Negativa
+eval_act_pol_1_ae,3,Ni negativa ni positiva
+eval_act_pol_1_ae,4,Positiva
+eval_act_pol_1_ae,5,Muy positiva
+eval_act_pol_1_ae,6,No conoce a la persona
+eval_act_pol_1_ae,-8,No sabe (no leer)
+eval_act_pol_1_ae,-9,No contesta (no leer)
