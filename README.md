@@ -1,1 +1,1 @@
-# egopol-tica_encuesta
+# Datos de Encuesta Egopolítica 2014 - 2025
