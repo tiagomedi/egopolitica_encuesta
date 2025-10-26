@@ -1,0 +1,1 @@
+# egopol-tica_encuesta
